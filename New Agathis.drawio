@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0" pages="3">
   <diagram name="Design POS" id="fIAqq8aQhd9q5YB-gazK">
     <mxGraphModel dx="1527" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -498,6 +498,140 @@
         </mxCell>
         <mxCell id="_EIZbLfaAADETWS-aI5k-31" value="Print QR Ticket" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fZVu5ok_-VsV7gWQinIP" name="Page-3">
+    <mxGraphModel dx="1240" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-1" value="Rombongan menuju loket tiket" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-2" value="Kasir input tiket sesuai jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-6" value="Kasir memilih pembayaran QRIS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="196.55" y="24.999999999999996" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="428" y="25" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-15" value="Kasir mencetak&amp;nbsp;&lt;div&gt;QRIS pembayaran&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-16" value="Pengunjung melakukan pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="658" y="146" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="196.55" y="145" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-19" value="Kasir mencetak tiket dan struk pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-21" value="Kasir memberikan tiket dan struk pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="196.55" y="266" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-23" value="Pengunjung melakukan scan tiket di gerbang" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-24" value="Gerbang terbuka sesuai dengan jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-89;" vertex="1" parent="1">
+          <mxGeometry x="429" y="145" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-26" value="Rombongan menuju loket tiket" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="41" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-27" value="Kasir input tiket sesuai jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-28" value="Kasir memilih pembayaran Jakcard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="197.55" y="466" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="429" y="466" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="772.86" y="550" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-32" value="Pengunjung memberikan kartu Jakcard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-33" value="Kasir melakukan top-up saldo kartu sesuai nominal transaksi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="429" y="586" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="197.55" y="586" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-36" value="Kasir input nomor kartu dan resi transaksi top-up kartu" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="82.86" y="670" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-38" value="Kasir memberikan kartu dan struk pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="196.55" y="705" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-40" value="Pengunjung tap kartu di gerbang" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="601" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-41" value="Gerbang melakukan pengurangan saldo sesuai nominal transaksi sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="428" y="705" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="950" y="800" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-45" value="Gerbang terbuka sesuai dengan jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-46" value="Pengunjung memasuki kawasan wisata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="501" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="658" y="466" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="772.86" y="110" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="82.85999999999999" y="230" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-50" value="Pengunjung memasuki kawasan wisata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="658" y="25" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="N-QmwBk42SCUFhMSJPGG-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="658" y="589" width="34.28" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
