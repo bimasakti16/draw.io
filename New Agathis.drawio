@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.1" pages="3">
   <diagram name="Design POS" id="fIAqq8aQhd9q5YB-gazK">
     <mxGraphModel dx="1527" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fZVu5ok_-VsV7gWQinIP" name="Page-3">
-    <mxGraphModel dx="1501" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1005,131 +1005,260 @@
         <mxCell id="RG7gBSqrQp5umZv7cyGP-165" value="Alur tapping gate jalur hybrid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="368.07" y="2720" width="363.86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-1" value="Instansi menghubungi TMR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-1" value="Instansi menghubungi TMR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="29.999999999999986" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="187.55" y="2785" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-3" value="Operator input data instansi rombongan di dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-3" value="Operator input data instansi rombongan di dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="417.55" y="2785" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-5" value="Operator input jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-5" value="Operator input jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="647" y="2785" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-7" value="Operator checkout transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-7" value="Operator checkout transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="878" y="2785" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-9" value="Operator mengunduh invoice transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-9" value="Operator mengunduh invoice transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-10" value="System menghitung diskon dan total transaksi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-10" value="System menghitung diskon dan total transaksi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="720.64" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="992.86" y="2870" width="34.28" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-12" value="Operator mengirimkan invoice transaksi rombongan ke instansi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-12" value="Operator mengirimkan invoice transaksi rombongan ke instansi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="878" y="2905" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="647.86" y="2905" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-15" value="Instansi rombongan melakukan pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-15" value="Instansi rombongan melakukan pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-16" value="Operator melakukan konfirmasi pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-16" value="Operator melakukan konfirmasi pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="417.55" y="2905" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="187.55" y="2905" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-19" value="Operator melakukan konfirmasi pembayaran di dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-19" value="Operator melakukan konfirmasi pembayaran di dashboard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="72.86000000000001" y="2990" width="34.28" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-21" value="Operator mencetak master QR dan struk yang berisi informasi jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-21" value="Operator mencetak master QR dan struk yang berisi informasi jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="187.55" y="3025" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-23" value="Rombongan menuju gate ticketing" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-23" value="Rombongan menuju gate ticketing" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="417.86" y="3025" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-25" value="Rombongan scan master QR tiket ke reader gate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-25" value="Rombongan scan master QR tiket ke reader gate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="647.86" y="3025" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-27" value="Reader melakukan validasi QR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-27" value="Reader melakukan validasi QR" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-28" value="Master QR&lt;div&gt;valid ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-28" value="Master QR&lt;div&gt;valid ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="3030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="878" y="3025" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="992.86" y="3120" width="34.28" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-31" value="Reader menampilkan pesan QR tiket tidak valid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-31" value="Reader menampilkan pesan QR tiket tidak valid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-32" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-32" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="3115" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-33" value="Ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-33" value="Ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="865.14" y="3115" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-120;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-120;" parent="1" vertex="1">
           <mxGeometry x="895.72" y="3100" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-35" value="Reader menampilkan informasi jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-35" value="Reader menampilkan informasi jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="720.64" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-36" value="Reader mengirimkan perintah ke gate untuk membuka turnstile gate sesuai jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-36" value="Reader mengirimkan perintah ke gate untuk membuka turnstile gate sesuai jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="648" y="3155" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-38" value="Turnstile gate terbuka sesuai dengan jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-38" value="Turnstile gate terbuka sesuai dengan jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="417.86" y="3155" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="187.55" y="3155" width="34.28" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-41" value="Pengunjung memasuki kawasan wisata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-41" value="Pengunjung memasuki kawasan wisata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="3170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf6or7bpgrm2QnCLm_1-42" value="Alur reservasi tiket rombongan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Bnf6or7bpgrm2QnCLm_1-42" value="Alur reservasi tiket rombongan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="359.07" y="3245" width="363.86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-2" value="Instansi menghubungi TMR untuk reservasi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="29.999999999999986" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="187.55" y="3345" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-4" value="Operator input informasi data instansi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-5" value="Operator input jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-6" value="System menghitung diskon dan total transaksi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-7" value="Operator menyimpan transaksi reservasi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-8" value="Pengunjung datang ke loket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="992.86" y="3430" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-10" value="Operator memeriksa reservasi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-11" value="Operator checkout transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-12" value="Operator checkout transaksi rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-13" value="Pengunjung membayar secara tunai" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-15" value="Operator input PAN kartu dan resi pembayaran" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="72.86000000000001" y="3550" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-17" value="Operator menyerahkan kartu Jakcard ke pengunjung" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-18" value="Rombongan menuju gate ticketing" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-19" value="Rombongan tap kartu Jakcard (sebagai master QR ticket)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-20" value="Reader melakukan validasi Jakcard" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-22" value="Master QR&lt;div&gt;valid ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="992.86" y="3670" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-24" value="Reader menampilkan informasi jumlah tiket rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720.64" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-25" value="Reader mengirimkan perintah ke gate untuk membuka turnstile gate sesuai jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-26" value="Turnstile gate terbuka sesuai dengan jumlah rombongan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="417.86" y="3715" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="187.55" y="3715" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-29" value="Pengunjung memasuki kawasan wisata" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="417.86" y="3345" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="3345" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="878" y="3345" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="878" y="3465" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="647.86" y="3465" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="417.86" y="3465" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="187.55" y="3465" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="187.55" y="3585" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="417.86" y="3589" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="3585" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=90;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="878" y="3585" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="878" y="3715" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-44" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="647" y="3715" width="34.28" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-46" value="Reader menampilkan pesan QR tiket tidak valid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=23.06;direction=north;notch=0;rotation=-180;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="992.86" y="3811" width="34.28" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-48" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="3811" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0m_WagWhaDK-TIgurKNU-49" value="Ya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="878" y="3720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
