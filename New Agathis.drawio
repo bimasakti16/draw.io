@@ -799,7 +799,7 @@
           <mxGeometry x="4840" y="43" width="1919" height="959" as="geometry" />
         </mxCell>
         <mxCell id="LTMjS_s6xQx841qiLOoq-443" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="LTMjS_s6xQx841qiLOoq-342" vertex="1">
-          <mxGeometry x="255" y="146" width="1634" height="777" as="geometry" />
+          <mxGeometry x="255" y="146" width="1634" height="404" as="geometry" />
         </mxCell>
         <mxCell id="LTMjS_s6xQx841qiLOoq-444" value="Buka Shift" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" parent="LTMjS_s6xQx841qiLOoq-443" vertex="1">
           <mxGeometry x="15" y="15.5" width="115" height="30" as="geometry" />
