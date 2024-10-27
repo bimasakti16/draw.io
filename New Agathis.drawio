@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2" pages="5">
   <diagram name="Design POS" id="fIAqq8aQhd9q5YB-gazK">
-    <mxGraphModel dx="1187" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +810,7 @@
         <mxCell id="LTMjS_s6xQx841qiLOoq-446" value="Waktu Buka Shift" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" parent="LTMjS_s6xQx841qiLOoq-445" vertex="1">
           <mxGeometry y="4" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LTMjS_s6xQx841qiLOoq-447" value="2024-10-27 09:23:59" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;spacingLeft=5;" parent="LTMjS_s6xQx841qiLOoq-445" vertex="1">
+        <mxCell id="LTMjS_s6xQx841qiLOoq-447" value="27 Oktober 2024 09:23:59" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;spacingLeft=5;" parent="LTMjS_s6xQx841qiLOoq-445" vertex="1">
           <mxGeometry x="262" width="568" height="37" as="geometry" />
         </mxCell>
         <mxCell id="LTMjS_s6xQx841qiLOoq-450" value="" style="group" parent="LTMjS_s6xQx841qiLOoq-443" vertex="1" connectable="0">
@@ -828,7 +828,7 @@
         <mxCell id="LTMjS_s6xQx841qiLOoq-453" value="" style="group" parent="LTMjS_s6xQx841qiLOoq-443" vertex="1" connectable="0">
           <mxGeometry x="44.99597832287518" y="245.5" width="902.0040216771249" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="LTMjS_s6xQx841qiLOoq-454" value="Nama Kasir" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" parent="LTMjS_s6xQx841qiLOoq-453" vertex="1">
+        <mxCell id="LTMjS_s6xQx841qiLOoq-454" value="Nama Petugas" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" parent="LTMjS_s6xQx841qiLOoq-453" vertex="1">
           <mxGeometry y="4" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LTMjS_s6xQx841qiLOoq-455" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;strokeColor=#9dbae1;" parent="LTMjS_s6xQx841qiLOoq-453" vertex="1">
@@ -859,61 +859,448 @@
           <mxGeometry x="4840" y="1062.5" width="1919" height="959" as="geometry" />
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-48">
-          <mxGeometry x="255" y="146" width="1205" height="777" as="geometry" />
+          <mxGeometry x="255" y="213.5" width="1205" height="714" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-50" value="Buka Shift" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-50" value="Pilih Tiket" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
           <mxGeometry x="15" y="15.5" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-51" value="" style="group" vertex="1" connectable="0" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="44.99597832287518" y="100.5" width="902.0040216771249" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-199" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="91.5" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-52" value="Waktu Buka Shift" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-51">
-          <mxGeometry y="4" width="250" height="20" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-196" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-199">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-53" value="2024-10-27 09:23:59" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=left;spacingLeft=5;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-51">
-          <mxGeometry x="262" width="568" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-197" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" source="20L-1Kvt3x-t1Tu7dDH3-196" target="20L-1Kvt3x-t1Tu7dDH3-196" parent="20L-1Kvt3x-t1Tu7dDH3-199">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-54" value="" style="group" vertex="1" connectable="0" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="44.99597832287518" y="149.5" width="902.0040216771249" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-198" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" source="20L-1Kvt3x-t1Tu7dDH3-196" target="20L-1Kvt3x-t1Tu7dDH3-196" parent="20L-1Kvt3x-t1Tu7dDH3-199">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-55" value="Partner" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-54">
-          <mxGeometry y="4" width="250" height="20" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-200" value="Tiket Dewasa&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 20.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-199">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-56" value="Pilih Partner" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;strokeColor=#9dbae1;align=left;spacingLeft=5;fontColor=#B0B0B0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-54">
-          <mxGeometry x="262.0040216771249" width="640" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-208" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-199">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-57" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.up;rotation=-180;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-54">
-          <mxGeometry x="880.0040216771249" y="18" width="12" height="6" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-209" value="5" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-208">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-58" value="" style="group" vertex="1" connectable="0" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="44.99597832287518" y="245.5" width="902.0040216771249" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-213" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-208">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-59" value="Nama Kasir" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-58">
-          <mxGeometry y="4" width="250" height="20" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-214" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-213">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-60" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;strokeColor=#9dbae1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-58">
-          <mxGeometry x="262.0040216771249" width="640" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-215" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-208">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-61" value="" style="group" vertex="1" connectable="0" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="44.99597832287518" y="195.5" width="902.0040216771249" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-216" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-215">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-62" value="V-Host" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-61">
-          <mxGeometry y="4" width="250" height="20" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-224" value="Tiket Reguler" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="61.5" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-63" value="Pilih V-Host" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;strokeColor=#9dbae1;spacingLeft=5;align=left;fontColor=#B0B0B0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-61">
-          <mxGeometry x="262.0040216771249" width="640" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-225" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="325" y="91.5" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-64" value="" style="group" vertex="1" connectable="0" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="44.99597832287518" y="293" width="902.0040216771249" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-226" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-225">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-65" value="Modal Awal" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-64">
-          <mxGeometry y="4" width="250" height="20" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-227" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-225" source="20L-1Kvt3x-t1Tu7dDH3-226" target="20L-1Kvt3x-t1Tu7dDH3-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-66" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;strokeColor=#9dbae1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-64">
-          <mxGeometry x="262" width="238" height="37" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-228" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-225" source="20L-1Kvt3x-t1Tu7dDH3-226" target="20L-1Kvt3x-t1Tu7dDH3-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-67" value="Buka Shift" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6777ef;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11.9;spacing=5;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
-          <mxGeometry x="45" y="351" width="129" height="33" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-229" value="Tiket Anak&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 10.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-225">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-230" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-225">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-231" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-230">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-232" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-230">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-233" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-232">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-234" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-230">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-235" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-234">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-236" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="635" y="91.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-237" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-236">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-238" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-236" source="20L-1Kvt3x-t1Tu7dDH3-237" target="20L-1Kvt3x-t1Tu7dDH3-237">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-239" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-236" source="20L-1Kvt3x-t1Tu7dDH3-237" target="20L-1Kvt3x-t1Tu7dDH3-237">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-240" value="Tiket Pelajar&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 15.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-236">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-241" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-236">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-242" value="35" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-241">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-243" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-241">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-244" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-243">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-245" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-241">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-246" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-245">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-258" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="261.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-259" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-258">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-260" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-258" source="20L-1Kvt3x-t1Tu7dDH3-259" target="20L-1Kvt3x-t1Tu7dDH3-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-261" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-258" source="20L-1Kvt3x-t1Tu7dDH3-259" target="20L-1Kvt3x-t1Tu7dDH3-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-262" value="Tiket Motor&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 20.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-258">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-263" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-258">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-264" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-263">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-265" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-263">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-266" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-265">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-267" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-263">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-268" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-267">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-269" value="Tiket Kendaraan" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="231.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-270" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="325" y="261.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-271" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-270">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-272" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-270" source="20L-1Kvt3x-t1Tu7dDH3-271" target="20L-1Kvt3x-t1Tu7dDH3-271">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-273" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-270" source="20L-1Kvt3x-t1Tu7dDH3-271" target="20L-1Kvt3x-t1Tu7dDH3-271">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-274" value="Tiket Mobil&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 10.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-270">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-275" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-270">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-276" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-275">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-277" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-275">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-278" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-277">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-279" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-275">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-280" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-279">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-281" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="635" y="261.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-282" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-281">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-283" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-281" source="20L-1Kvt3x-t1Tu7dDH3-282" target="20L-1Kvt3x-t1Tu7dDH3-282">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-284" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-281" source="20L-1Kvt3x-t1Tu7dDH3-282" target="20L-1Kvt3x-t1Tu7dDH3-282">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-285" value="Tiket Bus&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 15.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-281">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-286" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-281">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-287" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-286">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-288" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-286">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-289" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-288">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-290" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-286">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-291" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-290">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-292" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="441.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-293" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-292">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-294" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-292" source="20L-1Kvt3x-t1Tu7dDH3-293" target="20L-1Kvt3x-t1Tu7dDH3-293">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-295" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-292" source="20L-1Kvt3x-t1Tu7dDH3-293" target="20L-1Kvt3x-t1Tu7dDH3-293">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-296" value="Kartu Jakcard Baru&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 20.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-292">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-297" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-292">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-298" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-297">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-299" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-297">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-300" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-299">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-301" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-297">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-302" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-301">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-303" value="Lainnya" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="411.5" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-304" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="325" y="441.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-305" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-304">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-306" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-304" source="20L-1Kvt3x-t1Tu7dDH3-305" target="20L-1Kvt3x-t1Tu7dDH3-305">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-307" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-304" source="20L-1Kvt3x-t1Tu7dDH3-305" target="20L-1Kvt3x-t1Tu7dDH3-305">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-308" value="Topup Jakcard 50.000&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 50.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-304">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-309" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-304">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-310" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-309">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-311" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-309">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-312" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-311">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-313" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-309">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-314" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-313">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-315" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="635" y="441.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-316" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-315">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-317" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-315" source="20L-1Kvt3x-t1Tu7dDH3-316" target="20L-1Kvt3x-t1Tu7dDH3-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-318" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-315" source="20L-1Kvt3x-t1Tu7dDH3-316" target="20L-1Kvt3x-t1Tu7dDH3-316">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-319" value="Topup Jakcard 100.000&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 100.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-315">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-320" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-315">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-321" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-320">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-322" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-320">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-323" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-322">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-324" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-320">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-325" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-324">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-326" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="15" y="571.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-327" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-326">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-328" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-326" source="20L-1Kvt3x-t1Tu7dDH3-327" target="20L-1Kvt3x-t1Tu7dDH3-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-329" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-326" source="20L-1Kvt3x-t1Tu7dDH3-327" target="20L-1Kvt3x-t1Tu7dDH3-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-330" value="Topup Jakcard 500.000&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 500.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-326">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-331" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-326">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-332" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-331">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-333" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-331">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-334" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-333">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-335" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-331">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-336" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-335">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-337" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;container=1;collapsible=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-49">
+          <mxGeometry x="325" y="571.5" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-338" value="" style="rounded=1;whiteSpace=wrap;html=1;container=1;collapsible=0;arcSize=0;aspect=fixed;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-337">
+          <mxGeometry x="11.25" y="12.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-339" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-337" source="20L-1Kvt3x-t1Tu7dDH3-338" target="20L-1Kvt3x-t1Tu7dDH3-338">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-340" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="20L-1Kvt3x-t1Tu7dDH3-337" source="20L-1Kvt3x-t1Tu7dDH3-338" target="20L-1Kvt3x-t1Tu7dDH3-338">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173.75" y="252.5" as="sourcePoint" />
+            <mxPoint x="1223.75" y="202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-341" value="Topup Jakcard 1.000.000&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Rp 1.000.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-337">
+          <mxGeometry x="118.75" y="12.5" width="171.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-342" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-337">
+          <mxGeometry x="185" y="80" width="105" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-343" value="0" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-342">
+          <mxGeometry x="35" y="7.190000000000055" width="35" height="18.12" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-344" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=1;collapsible=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-342">
+          <mxGeometry x="80" y="8.750000000000055" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-345" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-344">
+          <mxGeometry x="2.8125000000000004" y="2.8125000000000004" width="9.375" height="9.375" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-346" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-342">
+          <mxGeometry x="10" y="8.750000000000059" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-347" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-346">
+          <mxGeometry x="1.875" y="6.5625" width="11.250000000000002" height="1.875" as="geometry" />
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-68" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-48">
           <mxGeometry x="1470" y="337.5" width="420" height="372.5" as="geometry" />
@@ -1021,7 +1408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-104" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-48">
-          <mxGeometry x="1470" y="146" width="420" height="184" as="geometry" />
+          <mxGeometry x="1470" y="140.5" width="420" height="184" as="geometry" />
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-105" value="Rombongan" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-104">
           <mxGeometry x="15" y="11.5" width="115" height="30" as="geometry" />
@@ -1060,7 +1447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-163" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-48">
-          <mxGeometry x="1470" y="720.5" width="420" height="202.5" as="geometry" />
+          <mxGeometry x="1470" y="725" width="420" height="202.5" as="geometry" />
         </mxCell>
         <mxCell id="20L-1Kvt3x-t1Tu7dDH3-164" value="Pembayaran" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-163">
           <mxGeometry x="15" y="10" width="115" height="30" as="geometry" />
@@ -1083,20 +1470,17 @@
             <mxPoint x="405" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-188" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="6770" y="1790" width="420" height="202.5" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-348" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeColor=#9dbae1;container=1;collapsible=0;recursiveResize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-48">
+          <mxGeometry x="255" y="140.5" width="1205" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-189" value="Pembayaran" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=15;fontStyle=1;fontColor=#7488f2;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-188">
-          <mxGeometry x="15" y="10" width="115" height="30" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-353" value="Nama Petugas : &lt;b&gt;Nama Petugas&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-348">
+          <mxGeometry x="15" y="21.25" width="195" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-190" value="Tunai" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11.9;spacing=5;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;container=1;collapsible=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-188">
-          <mxGeometry x="15" y="50" width="80" height="30" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-360" value="Waktu Buka Shift : &lt;b&gt;27 Oktober 2024 09:23:59&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12.5;fontColor=#000000;fontStyle=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;spacing=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-348">
+          <mxGeometry x="210" y="21.25" width="355" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-191" value="Non Tunai" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11.9;spacing=5;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-188">
-          <mxGeometry x="100" y="50" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-193" value="Bayar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6777ef;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11.9;spacing=5;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-188">
-          <mxGeometry x="15" y="150" width="390" height="38" as="geometry" />
+        <mxCell id="20L-1Kvt3x-t1Tu7dDH3-365" value="Tutup Shift" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11.9;spacing=5;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;container=1;collapsible=0;" vertex="1" parent="20L-1Kvt3x-t1Tu7dDH3-348">
+          <mxGeometry x="1060" y="12.25" width="135" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
